@@ -9,8 +9,8 @@ This script automates the installation of Docker and Jenkins on a Linux system. 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/GiorgosIlia/Docker-Jenkins-install-script.git
+    cd Docker-Jenkins-install-script
     ```
 
 2. Make the script executable:
@@ -45,7 +45,7 @@ Before running the script, ensure you have the following prerequisites:
 
 ## Contributing
 
-If you encounter issues or have suggestions for improvement, feel free to open an [issue](https://github.com/GiorgosIlia/Docker-Jenkins-install-script-/issues) or submit a pull request.
+If you encounter issues or have suggestions for improvement, feel free to open an [issue](https://github.com/GiorgosIlia/Docker-Jenkins-install-script/issues) or submit a pull request.
 
 ## License
 
