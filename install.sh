@@ -66,7 +66,7 @@ sudo usermod -aG docker $USER
 echo "Docker installation and setup completed successfully!"
 
 # Install Java (required for Jenkins)
-sudo apt-get install -y openjdk-8-jdk
+sudo apt-get install -y openjdk-11-jdk
 
 # Check Java installation
 check_command "Java installation"
